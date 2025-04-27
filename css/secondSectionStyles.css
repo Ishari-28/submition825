@@ -68,6 +68,13 @@
   cursor: pointer;
 }
 
+.free-guide-btn:hover {
+  background-color: #8c4e9e;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
 .phone1-container {
   display: flex;
   justify-content: center;
